@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=89b4fa&center=true&vCenter=true&width=400&lines=Akshita" alt="Typing SVG" />
-</h1>
-
 # About Me:
 Currently Learning Cyber Security
 
